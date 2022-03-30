@@ -8,16 +8,21 @@ Ao clicar em adicionar você manda o pokemon para a lista da Pokedex e ao clicar
 
 <h5>Link do surge: <a href>precious-coast.surge.sh</a></h5>
 
-Link do Surge
-https://rigid-sand.surge.sh/
-
-Funcionalidades implementadas
+<h2>Funcionalidades implementadas</h2>
+</br>
 Adicionar pokemons na pokedex
+</br>
 Remover pokemons da pokedex
+</br>
 Ver detalhes de cada pokemon
+</br>
 Navegação entre páginas
-Tecnologias
+</br>
+<h2>Tecnologias</h2>
 React JS
+</br>
 Styled-components
+</br>
 React Router
+</br>
 Material UI
