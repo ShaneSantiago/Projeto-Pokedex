@@ -14,7 +14,7 @@ Nele você pode ver os detalhes de um pokemon especifico como; movimentos, ataqu
 Ao clicar em adicionar você manda o pokemon para a lista da Pokedex e ao clicar remover na lista, você manda ele de volta para a página principal</p>
 
 <!-- PROJECT SITE -->
-<h2 id="site">:earth_americas: Link do site </h2>
+<h2 id="site">:earth_americas: Link do site</h2>
 <p>🔗 <a href="https://precious-coast.surge.sh/" target="_blank"> Pokedex </a>  </p>
 <!-- <a href="https://precious-coast.surge.sh/" onclick="return ! window.open(this.href);"> Open in a new window</a> -->
 
